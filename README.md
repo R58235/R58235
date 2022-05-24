@@ -7,8 +7,7 @@
 - ✔Markup Languages: HTML, XML, CSS.
 - ✔Frameworks: Node.js, Flutter
 - ✔Platforms and IDE: Android Studio, Visual Studio, Visual Studio Code, Arduino IDE, Google Colab.
-- 🔗Links: [GitHub](https://github.com/R58235), [LinkedIn](https://www.linkedin.com/in/rishi-agarwal-992759221/), [Codeforces](https://codeforces.com/profile/riag), [Leetcode](https://leetcode.com/rishi58235/),
-- 
+- 🔗Links: [GitHub](https://github.com/R58235), [LinkedIn](https://www.linkedin.com/in/rishi-agarwal-992759221/), [Codeforces](https://codeforces.com/profile/riag), [Leetcode](https://leetcode.com/rishi58235/)
 
 <!---
 R58235/R58235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
